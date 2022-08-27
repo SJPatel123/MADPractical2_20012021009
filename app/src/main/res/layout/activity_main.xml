@@ -15,6 +15,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:textColor="@color/holo_blue_bright"
+        android:textSize="27sp"
+        android:textStyle="bold|italic"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
